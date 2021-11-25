@@ -1,4 +1,4 @@
-# GIT UTIL COMMANDS
+# Git util commands
 
 git reset --soft
 git reset --hard
