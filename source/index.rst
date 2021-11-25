@@ -11,7 +11,8 @@ Welcome to TechnicalDocumentation's documentation!
    :caption: Contents:
    
    demo.md
-
+   docs/courses/nvim/notes.md
+   docs/courses/elixir/day_3/tasks/1_frequencies.md
 
 Indices and tables
 ==================
