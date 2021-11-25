@@ -13,7 +13,7 @@ Welcome to TechnicalDocumentation's documentation!
    demo.md
    docs/courses/nvim/notes.md
    docs/courses/elixir/day_3/tasks/1_frequencies.md
-
+   docs/courses/git/util_comands.md
 Indices and tables
 ==================
 
