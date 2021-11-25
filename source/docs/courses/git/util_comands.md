@@ -11,5 +11,7 @@ git stash push -m ¨nombre¨ --include-untracker
 git stash apply (el ultimo en pila)
 git stash drop 
 git stash pop (hace apply and drop)
-git stash show stash@\{0\} 
+git stash show stash@\{1\}
+
+# others
 
