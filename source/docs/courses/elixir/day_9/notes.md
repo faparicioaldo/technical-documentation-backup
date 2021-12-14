@@ -74,3 +74,7 @@ Using the Modules and functions created in last session we can persist new pets 
 4. Finish, check in navigator the next URI (if this doen't work re-run the proyect with step 1 in this section)
     [http://localhost:4000/api/pets](http://localhost:4000/api/pets)
 
+
+### Links recommended
+    > https://hexdocs.pm/plug/Plug.Conn.html
+    > https://hexdocs.pm/phoenix/up_and_running.html
