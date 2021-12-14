@@ -18,6 +18,8 @@ toeuoao
 eao
 eao
 
+### Demo
+
 to change normal mode: ESC, c-c 
 move by word -> w, e, b 
 insert text -> (left) -> i, I -> (right) -> a, A 

@@ -7,12 +7,12 @@ Welcome to TechnicalDocumentation's documentation!
 ==================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3 
    :caption: Contents:
    
-   demo.md
    docs/courses/nvim/notes.md
    docs/courses/elixir/day_3/tasks/1_frequencies.md
+   docs/courses/elixir/day_9/notes.md
    docs/courses/git/util_comands.md
 
 Indices and tables
