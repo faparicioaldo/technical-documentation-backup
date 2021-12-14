@@ -10,7 +10,7 @@ Notes from the couse class 9
     ```
 2. To create a new proyect run command bellow
     ```console
-     mix phx.new phoenix_101_bunsan
+     mix phx.new phoenix_101_demo
     ```
 3. Next, run command to create database and another elixir modules neccesaries
     ```command
@@ -44,7 +44,7 @@ We can use generators in elixir to create elixir modules and entities in databas
     iex -S mix phx.server
     ```
 
-4. Open the next URI
+4. Open the next URI, we should to see a empty json without pets 
     [http://localhost:4000/api/pets](http://localhost:4000/api/pets)
 
 ### Persisting PETS in database
@@ -53,8 +53,8 @@ Using the Modules and functions created in last session we can persist new pets 
 
 1. Run next commands to define aliases to help us in use the functions in a easy way
     ```command
-    alias Phoenix101Bunsan.Pets
-    alias Phoenix101Bunsan.Pets.Pet
+    alias Phoenix101Demo.Pets
+    alias Phoenix101Demo.Pets.Pet
     ```
 
 2. Now, to create a new PET only run the next little command bellow
