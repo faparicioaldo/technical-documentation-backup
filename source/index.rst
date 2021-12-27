@@ -14,6 +14,7 @@ Welcome to TechnicalDocumentation's documentation!
    docs/courses/elixir/day_3/tasks/1_frequencies.md
    docs/courses/elixir/day_9/notes.md
    docs/courses/git/util_comands.md
+   docs/courses/terminal/useful_commands.md
 
 Indices and tables
 ==================
