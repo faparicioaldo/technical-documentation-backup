@@ -15,3 +15,6 @@ kill -9 $(lsof -t -i:8080)
 ```
 -9 corresponds to the SIGKILL - terminate immediately/hard kill
 
+References:
+https://stackoverflow.com/questions/11583562/how-to-kill-a-process-running-on-particular-port-in-linux
+
